@@ -41,7 +41,8 @@ header {
 
 footer {
   position: absolute;
-  bottom: 10px;
+  bottom: 5%;
+  max-height: 5%;
 }
 
 .container {
